@@ -31,9 +31,3 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
----
-
-😂 **Random Dev Meme:**  
-<p align="center">
-  <img src="https://random-memer.herokuapp.com/" width="400px"/>
-</p>
