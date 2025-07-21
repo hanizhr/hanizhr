@@ -2,16 +2,16 @@
 
 <p align="center">
   💻 QA Engineer at <strong>Partdp</strong> | 🌐 Learning React & Web Development<br>
-  🎓 Computer Engineering Student | 🔐 Passionate about Cybersecurity & Malware Analysis
+  🎓 Computer Engineering Graduate | 🔐 Passionate about Cybersecurity & Malware Analysis
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🔍 Quality Assurance Engineer at **Partdp**
-- 🌱 Currently diving into **React** and **Frontend Web Development**
-- 🛡️ Interested in **Android Security**, **Reverse Engineering**, and **Static Analysis**
-- 💡 Always eager to explore new technologies and improve my skills!
+- 🧪 QA Engineer at **Partdp**
+- 🌱 Currently exploring **React** and **Frontend Web Development**
+- 🛡️ Passionate about **Cybersecurity**, especially **Android Security**, **Reverse Engineering**, and **Static Analysis**
+- 💡 A lifelong learner who enjoys building, testing, and breaking things to understand how they work!
 
 ---
 
