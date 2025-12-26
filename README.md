@@ -1,21 +1,23 @@
 # 👋 Hi there
-I'm a backend developer focused on **Node.js** and server-side development.  
-I enjoy building scalable services, designing reliable architectures, and working on backend infrastructure.
+I'm a **Backend Developer** specializing in **Django** and Python.  
+I focus on building secure, scalable, and maintainable backend systems.
 
 ---
 
 ## 🔧 Skills
-- **Node.js** (core modules, Express, Fastify)  
+- **Python & Django** (Django REST Framework)  
 - Designing and building **REST APIs**  
-- **Caching** and performance optimization  
+- **PostgreSQL** and relational database design  
+- **Docker** & containerized development  
+- **Linux** (server environment & basic administration)  
+- Working with **Databases**, ORM, and migrations  
 - **Git** and version control  
-- Testing (Unit and Integration tests)  
 
 ---
 
 ## 🌱 Interests
-- Learning and applying **Design Patterns**  
-- Team collaboration and knowledge sharing  
+- Backend architecture and best practices  
+- Clean code and scalable system design  
 
 ---
 
