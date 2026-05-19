@@ -1,4 +1,4 @@
-# 👋 Hi there
+#  Hi there
 
 I'm **Haniyeh Zahraee**, a Backend Developer specializing in **Node.js**, **JavaScript**, and **Django**.
 
@@ -7,7 +7,7 @@ I’m passionate about clean architecture, problem-solving, and modern web techn
 
 ---
 
-# 🚀 Tech Stack
+#  Tech Stack
 
 ## Backend
 - Node.js
@@ -35,7 +35,7 @@ I’m passionate about clean architecture, problem-solving, and modern web techn
 
 ---
 
-# 💼 Experience
+#  Experience
 
 - Backend & Web Developer (Freelance)
 - Flutter Developer
@@ -44,7 +44,7 @@ I’m passionate about clean architecture, problem-solving, and modern web techn
 
 ---
 
-# 📌 Featured Projects
+#  Featured Projects
 
 ## 🔹 Real-Time Chat Application
 Built a real-time chat application using Node.js, Socket.IO, and React.js with instant messaging functionality.
@@ -66,7 +66,7 @@ Created a blog platform with Django and PostgreSQL featuring authentication and 
 
 ---
 
-# 🌱 Currently Learning
+#  Currently Learning
 
 - Advanced Backend Architecture
 - Scalable System Design
@@ -75,11 +75,11 @@ Created a blog platform with Django and PostgreSQL featuring authentication and 
 
 ---
 
-# 📫 Contact Me
+#  Contact Me
 
-- 📧 Email: haniyehzahraee@gmail.com
-- 💼 LinkedIn: http://linkedin.com/in/haniyeh-zahraee-78b730235
-- 💬 Telegram: @Zahraee_H
-- 🐙 GitHub: http://hanizhr.github.io/my-resume
+-  Email: haniyehzahraee@gmail.com
+-  LinkedIn: http://linkedin.com/in/haniyeh-zahraee-78b730235
+-  Telegram: @Zahraee_H
+-  GitHub: http://hanizhr.github.io/my-resume
 
 ---
