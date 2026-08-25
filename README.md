@@ -1,133 +1,203 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=140&section=header&text=Haniyeh%20Zahraee&fontSize=35&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20&%20Data%20Science%20Specialist&descSize=14&descColor=8b949e" alt="Header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Haniyeh%20Zahraee&fontSize=48&fontColor=00FF9C&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Data%20Engineer%20|%20AI%20Enthusiast&descAlignY=58&descAlign=50" width="100%"/>
 
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-haniyeh--zahraee-161b22?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=0d1117)](https://www.linkedin.com/in/haniyeh-zahraee-78b730235/)
-[![Email](https://img.shields.io/badge/Email-haniyehzahraee%40gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=58a6ff&labelColor=0d1117)](mailto:haniyehzahraee@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-hanizhr.github.io-161b22?style=for-the-badge&logo=googlechrome&logoColor=58a6ff&labelColor=0d1117)](https://hanizhr.github.io/)
-[![Location](https://img.shields.io/badge/Location-Iran%20·%20Mashhad%20·%20Tehran-161b22?style=for-the-badge&logo=googlemaps&logoColor=58a6ff&labelColor=0d1117)](#)
-[![Profile views](https://komarev.com/ghpvc/?username=hanizhr&style=for-the-badge&color=0d1117&background=58a6ff)](https://github.com/hanizhr)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=650&lines=root%40haniyeh%3A~%24+whoami;Backend+%26+Data+Engineer;Python+%7C+Django+%7C+FastAPI+%7C+ML;curl+-s+hanizhr.github.io+%7C+bash" alt="Typing SVG" />
 
 </div>
 
----
+<br/>
 
-### `> whoami`
+```bash
+haniyeh@dev:~$ cat about_me.txt
+```
 
-Computer Engineering graduate (M.Sc. student at Shahrood University of Technology) specializing in **Backend Systems Engineering**, **Data Science**, and **AI Integration**. 
+```
+> Computer Engineering grad (B.Sc & M.Sc) from Iran
+> Explored the whole CS map... landed on Backend & Data.
+> Now leveling up in backend systems, data pipelines and applied ML.
+> Fueled by Linux, terminal workflows and clean architecture.
+```
 
-After exploring various fields in computer science, I found my true passion in **Backend Architecture** and **Data Engineering**. Day-to-day, I design robust APIs, handle large-scale data pipelines, and integrate machine learning models.
+<br/>
 
-- 🛠️ Currently focusing on scalable backends, AI agents, and data extraction pipelines.
-- 🎓 **M.Sc. Software Engineering** — Shahrood University of Technology *(Thesis: AI-driven structured data extraction for e-commerce using SLMs/LLMs)*.
-- 🎓 **B.Sc. Computer Engineering** — Quchan University of Technology *(2000–2004)*.
-- 💼 Experienced in software QA engineering, cross-platform mobile development, and full-stack delivery.
+## 🖥️ &nbsp;`~/skills` &nbsp;— &nbsp;tech_stack.sh
 
----
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
 
-### `> tech-stack`
+**🐍 Languages**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 
-<details open>
-<summary><b>📂 Core Backend & APIs</b></summary>
+**⚙️ Backend & APIs**
+<br/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
 
-<br>
+**🗄️ Databases & Cache**
+<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=58a6ff)
-![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=58a6ff)
-![Django REST Framework](https://img.shields.io/badge/DRF-0d1117?style=flat-square&logo=django&logoColor=58a6ff)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=58a6ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=58a6ff)
-![Socket](https://img.shields.io/badge/WebSockets-0d1117?style=flat-square&logo=socketdotio&logoColor=58a6ff)
+</td>
+<td valign="top" width="50%">
 
-</details>
+**🤖 Data / ML / AI**
+<br/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Agents-6E56CF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Big%20Data-FF6600?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linear%20Algebra%20%26%20Stats-333333?style=for-the-badge"/>
 
-<details open>
-<summary><b>🧠 Data Science, AI & Big Data</b></summary>
+**🧪 Testing / DevOps**
+<br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+<img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
-<br>
+**📱 Mobile**
+<br/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=58a6ff)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=58a6ff)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=58a6ff)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=58a6ff)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=flat-square&logo=matplotlib&logoColor=58a6ff)
-![Seaborn](https://img.shields.io/badge/Seaborn-0d1117?style=flat-square&logo=seaborn&logoColor=58a6ff)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-0d1117?style=flat-square&logo=openai&logoColor=58a6ff)
-![AI Agents](https://img.shields.io/badge/AI_Agents-0d1117?style=flat-square&logo=robotframework&logoColor=58a6ff)
-![Data Extracting](https://img.shields.io/badge/Data_Extraction-0d1117?style=flat-square&logo=databricks&logoColor=58a6ff)
-![Big Data](https://img.shields.io/badge/Big_Data-0d1117?style=flat-square&logo=apachehadoop&logoColor=58a6ff)
-![Linear Algebra](https://img.shields.io/badge/Linear_Algebra-0d1117?style=flat-square&logo=mathoverflow&logoColor=58a6ff)
-![Statistics](https://img.shields.io/badge/Statistics-0d1117?style=flat-square&logo=icloud&logoColor=58a6ff)
+</td>
+</tr>
+</table>
 
-</details>
+<br/>
 
-<details open>
-<summary><b>🗄️ Databases & Caching</b></summary>
+## 🎓 &nbsp;`~/education` &nbsp;— &nbsp;ls -la
 
-<br>
+<table width="100%">
+<tr>
+<td width="12%" align="center">🎓</td>
+<td>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=58a6ff)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=sqlite&logoColor=58a6ff)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=58a6ff)
+**M.Sc. — Computer Engineering, Software (Shahrood University of Technology)**
+<br/>
+Thesis: AI-based information extraction system for e-commerce websites — fully self-built dataset & pipeline.
+<br/>Supervisor: Dr. Hoda Mashayekhi
 
-</details>
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td align="center">🎓</td>
+<td>
 
-<details open>
-<summary><b>⚙️ DevOps, Testing & Tools</b></summary>
+**B.Sc. — Computer Engineering (Quchan University of Technology), 2021–2025**
+<br/>
+Thesis: Android malware detection — FastAPI backend, Flutter mobile frontend, custom model fine-tuning & dataset creation.
+<br/>Supervisor: Dr. Zahra Eskandari
 
-<br>
+</td>
+</tr>
+</table>
 
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=58a6ff)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=58a6ff)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=58a6ff)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnuinfocenter&logoColor=58a6ff)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0d1117?style=flat-square&logo=githubactions&logoColor=58a6ff)
-![Cypress](https://img.shields.io/badge/Cypress-0d1117?style=flat-square&logo=cypress&logoColor=58a6ff)
-![k6](https://img.shields.io/badge/k6-0d1117?style=flat-square&logo=k6&logoColor=58a6ff)
-![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=58a6ff)
-![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=58a6ff)
-![Dart](https://img.shields.io/badge/Dart-0d1117?style=flat-square&logo=dart&logoColor=58a6ff)
+<br/>
 
-</details>
+## 💼 &nbsp;`~/experience` &nbsp;— &nbsp;git log --oneline
 
----
+```text
+* 2026 (present)   Freelance Developer
+|                  ├─ Node.js platform → factor0.tr
+|                  └─ Python backend → Exobiogene.ir
+|
+* 1404–1405        Software Test Engineer @ Part Co.
+|                  └─ Automated testing with Cypress & k6, CI/CD pipelines
+|
+* 1402             Flutter Developer Intern @ Hooshmand Farahes Pouya
+                    └─ 3-month internship, mobile app development
+```
 
-### `> experience & background`
+<br/>
 
-- **Freelance Backend Developer & Data Engineer** *(2026 – Present)*
-  - Developed and delivered commercial projects including [factor0.tr](https://factor0.tr/) (Node.js backend) and [Exobiogene.ir](https://Exobiogene.ir/) (Python backend).
-- **Software QA Engineer — Part** *(2025 – 2026)*
-  - Conducted comprehensive testing pipelines and quality assurance frameworks.
-- **Flutter Developer (Internship) — Hooshmand Faras Pooya** *(Summer 2023)*
-  - Built cross-platform mobile interfaces and client-side logic.
+## 📌 &nbsp;`~/projects` &nbsp;— &nbsp;featured
 
----
+<table width="100%">
+<tr>
+<td width="50%">
 
-### `> academic-research`
+### 🧠 Android Malware Detection
+FastAPI backend + Flutter frontend, with custom model fine-tuning and self-built dataset.
+</td>
+<td width="50%">
 
-- **M.Sc. Software Engineering** — *Shahrood University of Technology*
-  - **Thesis:** Designing an intelligent AI-based extraction system for e-commerce platforms with custom dataset pipeline development.
-  - **Advisor:** Dr. Hoda Mashayekhi
-- **B.Sc. Computer Engineering** — *Quchan University of Technology* *(2021 – 2025)*
-  - **Capstone Project:** Android malware detection system leveraging machine learning classification models, featuring a FastAPI/Python backend and a Flutter Android client. Managed complete dataset preparation and model fine-tuning.
-  - **Advisor:** Dr. Zahra Eskandari
+### 🛍️ E-commerce Data Extraction AI
+An intelligent system that accurately extracts structured data from e-commerce websites — dataset built from scratch.
+</td>
+</tr>
+<tr>
+<td width="50%">
 
----
+### 🌐 factor0.tr
+Full platform built with Node.js.
+<br/>🔗 [factor0.tr](https://factor0.tr/)
+</td>
+<td width="50%">
 
-### `> github-stats`
+### 🧬 Exobiogene.ir
+Backend engineering with Python.
+<br/>🔗 [Exobiogene.ir](https://Exobiogene.ir)
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 &nbsp;`~/stats` &nbsp;— &nbsp;neofetch
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=hanizhr&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hanizhr&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" height="165"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanizhr&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9" height="165"/>
+</div>
+
+<br/>
+
+## 📡 &nbsp;`~/contact` &nbsp;— &nbsp;connect --to=haniyeh
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hanizhr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanizhr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="48%" />
+<a href="mailto:haniyehzahraee@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/haniyeh-zahraee-78b730235/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/hanizhr"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://hanizhr.github.io/"><img src="https://img.shields.io/badge/Portfolio-00FF9C?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+<a href="tel:+989157029964"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+📍 Mashhad / Tehran, Iran
 
 </div>
 
----
+<br/>
 
 <div align="center">
-<sub><code>linux terminal mode</code> · built with passion by Haniyeh Zahraee</sub>
+
+```bash
+haniyeh@dev:~$ echo "Thanks for stopping by — let's build something great."
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
+
 </div>
