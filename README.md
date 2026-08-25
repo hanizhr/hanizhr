@@ -163,8 +163,9 @@ Repository: **Private**
 ---
 
 ## GitHub
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanizhr&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/hanizhr/hanizhr/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 </div>
 
 ---
