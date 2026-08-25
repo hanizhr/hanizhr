@@ -1,28 +1,14 @@
-<div align="center">
+# Haniyeh Zahraee
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0b2926&height=120&section=header&text=Haniyeh%20Zahraee&fontSize=32&fontColor=43ead3&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Data%20%26%20AI&descSize=13&descColor=8b949e" width="100%" alt="Haniyeh Zahraee">
+### Backend Developer | Data & AI
 
-<br>
+I'm a Computer Engineer interested in backend development and data.
+I've worked with different areas of software development, but over time
+I found myself more interested in building backend systems, working with
+data, and understanding how machine learning can be used in real projects.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0d1117?style=for-the-badge\&logo=linkedin\&logoColor=43ead3)](https://www.linkedin.com/in/haniyeh-zahraee-78b730235/)
-[![Email](https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge\&logo=gmail\&logoColor=43ead3)](mailto:haniyehzahraee@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0d1117?style=for-the-badge\&logo=googlechrome\&logoColor=43ead3)](https://hanizhr.github.io/)
-
-</div>
-
----
-
-## About Me
-
-I'm a Computer Engineer focused on **backend development, data engineering, and AI-powered systems**.
-
-I enjoy building APIs, working with databases, designing data pipelines, and turning research ideas into practical software.
-
-```text
-Backend Development   →   APIs, scalable services, real-time systems
-Data & AI              →   Data pipelines, ML, structured data extraction
-Engineering            →   Linux, Docker, testing, automation
-```
+Currently, I'm mainly working with Python, Django, FastAPI, PostgreSQL,
+Redis and Docker, while continuing to explore machine learning and AI.
 
 ---
 
@@ -30,110 +16,167 @@ Engineering            →   Linux, Docker, testing, automation
 
 ### Backend
 
-`Python` `Django` `Django REST Framework` `FastAPI`
-`Node.js` `JavaScript` `WebSockets`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### Data & AI
+### Databases & Data
 
-`PyTorch` `Scikit-Learn` `Pandas` `NumPy`
-`OpenAI API` `AI Agents` `Data Extraction`
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-### Databases
+### Machine Learning & AI
 
-`PostgreSQL` `SQL` `Redis`
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 
-### DevOps & Testing
+Machine Learning · Fine-tuning · Dataset Creation · AI Agents ·
+Statistics · Linear Algebra
 
-`Linux` `Docker` `Git` `Bash` `CI/CD`
-`Cypress` `k6`
+### Testing & Performance
+
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
+
+API Testing · E2E Testing · Performance Testing · Load Testing
+
+### DevOps & Tools
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+Linux · Docker · Git · Bash · CI/CD
 
 ### Other
 
-`C++` `Flutter` `Dart` `Statistics` `Linear Algebra`
-
----
-
-## Experience
-
-### Freelance Backend & Data Engineer
-
-**2026 — Present**
-
-* Developing backend services and data-driven applications.
-* Building production systems with Python, Node.js, databases, and APIs.
-* Working on projects including [Factor0](https://factor0.tr/) and [Exobiogene](https://exobiogene.ir/).
-
-### Software Test Engineer — Part
-
-**2025 — 2026**
-
-* API, E2E, performance, and load testing.
-* Automated testing with `Cypress`.
-* Performance testing with `k6`.
-
-### Flutter Developer Intern — Houshmand Farahes Poya
-
-**2023**
-
-* Developed cross-platform mobile application features.
-* Worked with Flutter and Dart for application logic and UI.
+Flutter · Dart · C++ · WebSockets
 
 ---
 
 ## Education
 
-### M.Sc. Software Engineering
-
-**Shahrood University of Technology**
+### M.Sc. in Computer Engineering — Software Engineering
+**Shahrood University of Technology**  
 2025 — Present
 
-**Research:** AI-driven structured data extraction for Persian e-commerce websites, including dataset collection and processing pipelines.
+My current research project focuses on extracting structured information
+from Persian e-commerce websites using AI.
 
-Advisor: **Dr. Hoda Mashayekhi**
+The dataset design and construction are also part of my work on the project.
 
-### B.Sc. Computer Engineering
-
-**Quchan University of Technology**
-2021 — 2025
-
-**Capstone:** Android Malware Detection System using a Python/FastAPI backend and Flutter client, with machine learning model training and dataset processing.
-
-Advisor: **Dr. Zahra Eskandari**
+**Supervisor:** Dr. Hoda Mashayekhi
 
 ---
 
-## Featured Projects
+### B.Sc. in Computer Engineering
+**Quchan University of Technology**  
+2021 — 2025
+
+**Graduation Project:** Android Malware Detection System
+
+The project consisted of a Python/FastAPI backend and a Flutter Android
+application for malware detection.
+
+I worked on the backend, dataset preparation and construction,
+model training and fine-tuning.
+
+**Supervisor:** Dr. Zahra Eskandari
+
+---
+
+## Experience
+
+### Freelancer — Backend & Data
+**2026 — Present**
+
+Working mainly on backend and data-related projects.
+
+Some of my recent work includes:
+
+- **Factor0** — Node.js
+  https://factor0.tr/
+
+- **Exobiogene** — Python backend
+  https://exobiogene.ir/
+
+---
+
+### Software Test Engineer — Part
+**2025 — 2026**
+
+Worked on software testing with a focus on API, end-to-end,
+performance and load testing.
+
+Tools I worked with included Cypress and k6.
+
+---
+
+### Flutter Developer Intern — Houshmand Farahes Poya
+**2023**
+
+3-month internship focused on Flutter application development.
+
+---
+
+## Selected Projects
+
+### Android Malware Detection System
+
+**Python · FastAPI · Flutter · Machine Learning**
+
+An Android malware detection project developed as my bachelor's
+final project.
+
+The backend was developed with FastAPI and the mobile application
+was built with Flutter.
+
+I was also responsible for preparing the dataset and working on
+model training and fine-tuning.
+
+Repository: **Private**
+
+---
 
 ### PESED
 
 **Persian E-Commerce Structured Data Extraction**
 
-A research project focused on extracting structured product information from Persian e-commerce websites and building a specialized dataset for machine learning applications.
+A research project developed during my master's studies.
 
-**Stack:** `Python` `Data Extraction` `Machine Learning` `NLP`
+The project focuses on extracting structured information from
+Persian e-commerce websites and building a dataset for the system.
 
-### Android Malware Detection
+I am responsible for the data extraction process and dataset
+construction as well as the development of the system.
 
-Machine-learning based Android malware detection system with a FastAPI backend and Flutter client.
-
-**Stack:** `Python` `FastAPI` `Machine Learning` `Flutter`
+Repository: **Private**
 
 ---
 
-## GitHub Activity
+## GitHub
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hanizhr&show_icons=true&hide_border=true&bg_color=0d1117&title_color=43ead3&icon_color=43ead3&text_color=8b949e" height="165">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanizhr&layout=compact&hide_border=true&bg_color=0d1117&title_color=43ead3&text_color=8b949e" height="165">
-
+  <img src="https://raw.githubusercontent.com/hanizhr/hanizhr/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 </div>
 
 ---
 
-<div align="center">
+## Find me
 
-**Building backends. Working with data. Exploring AI.**
+- GitHub: https://github.com/hanizhr
+- LinkedIn: https://www.linkedin.com/in/haniyeh-zahraee-78b730235/
+- Portfolio: https://hanizhr.github.io/
+- Email: haniyehzahraee@gmail.com
 
-</div>
+---
+
+<sub>Interested in backend systems, data and practical applications of AI.</sub>
