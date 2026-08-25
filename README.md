@@ -1,429 +1,183 @@
-# 👩🏻‍💻 Haniyeh Zahraee
+# Haniyeh Zahraee
 
-```bash
-$ whoami
+### Backend Developer | Data & AI
 
-haniyeh-zahraee
+I'm a Computer Engineer interested in backend development and data.
+I've worked with different areas of software development, but over time
+I found myself more interested in building backend systems, working with
+data, and understanding how machine learning can be used in real projects.
 
-$ cat /etc/profile
-
-Backend Developer • Data Engineer • AI/ML Enthusiast
-Linux lover • Python developer • Problem solver
-```
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=750&lines=Backend+Developer;Python+%7C+Django+%7C+FastAPI;Data+%26+Machine+Learning;AI+%26+LLM+Systems;Linux+%7C+Docker+%7C+CI%2FCD;Always+building%2C+learning+and+improving." />
-</p>
-
-<p align="center">
-  <a href="https://github.com/hanizhr">
-    <img src="https://img.shields.io/github/followers/hanizhr?label=Followers&style=for-the-badge&logo=github&color=181717" />
-  </a>
-  <a href="https://github.com/hanizhr">
-    <img src="https://img.shields.io/github/stars/hanizhr?label=Stars&style=for-the-badge&logo=github&color=yellow" />
-  </a>
-  <a href="mailto:[haniyehzahraee@gmail.com](mailto:haniyehzahraee@gmail.com)">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+Currently, I'm mainly working with Python, Django, FastAPI, PostgreSQL,
+Redis and Docker, while continuing to explore machine learning and AI.
 
 ---
 
-## `> ./about_me.sh`
+## Tech Stack
 
-```text
-I explored different areas of computer science before discovering
-where I really want to grow:
+### Backend
 
-        Backend Engineering + Data + AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-I enjoy building reliable backend systems, working with data,
-designing APIs, experimenting with machine learning models,
-and turning raw information into useful systems.
+### Databases & Data
 
-Currently, I'm focused on becoming a stronger Backend & Data Engineer
-and building production-oriented projects with Python, Django,
-FastAPI, PostgreSQL, Docker, Redis and modern AI technologies.
-```
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
----
+### Machine Learning & AI
 
-## `> ls ~/skills`
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 
-### 🐍 Backend & Programming
+Machine Learning · Fine-tuning · Dataset Creation · AI Agents ·
+Statistics · Linear Algebra
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-</p>
+### Testing & Performance
 
-### 🗄️ Databases & Data
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
 
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-</p>
+API Testing · E2E Testing · Performance Testing · Load Testing
 
-**Data Engineering**
+### DevOps & Tools
 
-```text
-Data Extraction
-      ↓
-Data Cleaning
-      ↓
-Data Processing
-      ↓
-Structured Dataset
-      ↓
-Analysis / Machine Learning
-```
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-* Data Extraction
-* Data Processing
-* Big Data
-* Dataset Construction
-* Statistical Analysis
-* Data Visualization
+Linux · Docker · Git · Bash · CI/CD
+
+### Other
+
+Flutter · Dart · C++ · WebSockets
 
 ---
 
-### 🤖 AI / Machine Learning
+## Education
 
-<p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI_Agents-111111?style=flat-square&logo=probot&logoColor=white"/>
-</p>
+### M.Sc. in Computer Engineering — Software Engineering
+**Shahrood University of Technology**  
+2025 — Present
 
-**Knowledge**
+My current research project focuses on extracting structured information
+from Persian e-commerce websites using AI.
 
-* Machine Learning
-* PyTorch
-* Scikit-learn
-* Fine-tuning
-* Dataset Creation
-* AI Agents
-* OpenAI API
-* Linear Algebra
-* Statistics
-
----
-
-### 📊 Data Science & Visualization
-
-<p>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-</p>
-
----
-
-### 🧪 Testing & Performance
-
-<p>
-<img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white"/>
-<img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white"/>
-</p>
-
-* Software Testing
-* API Testing
-* End-to-End Testing
-* Performance Testing
-* Load Testing
-* Test Automation
-
----
-
-### ⚙️ DevOps & Tools
-
-<p>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/CI%2FCD-222222?style=flat-square&logo=githubactions&logoColor=white"/>
-</p>
-
----
-
-### 📱 Mobile & Other
-
-<p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white"/>
-</p>
-
----
-
-## `> cat education.log`
-
-### 🎓 M.Sc. Computer Engineering — Software Engineering
-
-**Shahrood University of Technology**
-
-`2025 — Present`
-
-**Research / Thesis**
-
-> AI-powered information extraction system for e-commerce websites.
-
-The project focuses on extracting structured information from e-commerce
-websites and constructing a high-quality dataset for AI/ML applications.
-
-**Responsibilities**
-
-* Dataset design and construction
-* Data extraction
-* Data preprocessing
-* AI/ML research
-* System development
+The dataset design and construction are also part of my work on the project.
 
 **Supervisor:** Dr. Hoda Mashayekhi
 
 ---
 
-### 🎓 B.Sc. Computer Engineering
+### B.Sc. in Computer Engineering
+**Quchan University of Technology**  
+2021 — 2025
 
-**Quchan University of Technology**
+**Graduation Project:** Android Malware Detection System
 
-`2021 — 2025`
+The project consisted of a Python/FastAPI backend and a Flutter Android
+application for malware detection.
 
-**Graduation Project**
-
-> Android Malware Detection System
-
-A complete malware detection system consisting of:
-
-```text
-Android Application
-        │
-        ▼
-     Backend
-        │
-        ▼
-      Model
-        │
-        ▼
- Malware Detection
-```
-
-**Backend:** Python + FastAPI
-**Mobile Application:** Flutter / Android
-
-I was responsible for:
-
-* Backend development
-* Dataset preparation
-* Dataset construction
-* Model training
-* Model fine-tuning
-* API development
-* Integration with Flutter application
+I worked on the backend, dataset preparation and construction,
+model training and fine-tuning.
 
 **Supervisor:** Dr. Zahra Eskandari
 
 ---
 
-## `> cat experience.log`
+## Experience
 
-### 💼 Freelancer — Backend & Data Developer
+### Freelancer — Backend & Data
+**2026 — Present**
 
-`2026 — Present`
+Working mainly on backend and data-related projects.
 
-Working on backend, data and AI-oriented projects.
+Some of my recent work includes:
 
-**Selected projects:**
+- **Factor0** — Node.js
+  https://factor0.tr/
 
-🔹 **Factor0**
-
-Node.js-based web project.
-
-🌐 https://factor0.tr/
-
-🔹 **Exobiogene**
-
-Backend development using Python.
-
-🌐 https://exobiogene.ir/
+- **Exobiogene** — Python backend
+  https://exobiogene.ir/
 
 ---
 
-### 🧪 Software Test Engineer — Part
+### Software Test Engineer — Part
+**2025 — 2026**
 
-`2025 — 2026`
+Worked on software testing with a focus on API, end-to-end,
+performance and load testing.
 
-Worked as a Software Test Engineer with focus on:
-
-* Software Testing
-* API Testing
-* End-to-End Testing
-* Performance Testing
-* Load Testing
-* Test Automation
-
-Technologies included:
-
-`Cypress` `k6` `API Testing` `CI/CD`
+Tools I worked with included Cypress and k6.
 
 ---
 
-### 📱 Flutter Developer Intern — Houshmand Farahes Poya
+### Flutter Developer Intern — Houshmand Farahes Poya
+**2023**
 
-`2023`
-
-**Duration:** 3 months
-
-Worked as a Flutter Developer and gained practical experience
-in mobile application development.
+3-month internship focused on Flutter application development.
 
 ---
 
-## `> ./research --list`
+## Selected Projects
 
-### 🔬 Research Interests
-
-```text
-Backend Engineering
-       │
-       ├── Distributed Systems
-       ├── APIs
-       ├── Databases
-       └── Performance
-
-Data Engineering
-       │
-       ├── Data Extraction
-       ├── Dataset Construction
-       ├── Data Processing
-       └── Big Data
-
-Artificial Intelligence
-       │
-       ├── Machine Learning
-       ├── Fine-tuning
-       ├── LLMs
-       └── AI Agents
-```
-
----
-
-## `> ./projects --featured`
-
-### 🦠 Android Malware Detection
+### Android Malware Detection System
 
 **Python · FastAPI · Flutter · Machine Learning**
 
-An end-to-end Android malware detection system developed as my
-Bachelor's final project.
+An Android malware detection project developed as my bachelor's
+final project.
 
-`Backend` `Dataset` `Model Training` `Fine-tuning` `Flutter`
+The backend was developed with FastAPI and the mobile application
+was built with Flutter.
 
----
+I was also responsible for preparing the dataset and working on
+model training and fine-tuning.
 
-### 🛒 Persian E-Commerce Information Extraction
-
-**Python · Data Extraction · AI/ML**
-
-My Master's research project focuses on building an intelligent system
-for extracting structured information from Persian e-commerce websites.
-
-A major part of the research is the design and construction of
-the dataset itself.
-
-`Data Extraction` `Dataset Construction` `AI` `NLP` `Machine Learning`
+Repository: **Private**
 
 ---
 
-### 🌐 Factor0
+### PESED
 
-**Node.js**
+**Persian E-Commerce Structured Data Extraction**
 
-A web project developed using Node.js.
+A research project developed during my master's studies.
 
-🔗 https://factor0.tr/
+The project focuses on extracting structured information from
+Persian e-commerce websites and building a dataset for the system.
 
----
+I am responsible for the data extraction process and dataset
+construction as well as the development of the system.
 
-### 🧬 Exobiogene Backend
-
-**Python**
-
-Backend development for the Exobiogene platform.
-
-🔗 https://exobiogene.ir/
+Repository: **Private**
 
 ---
 
-## `> git status`
-
-```text
-Currently working on:
-
-[+] Backend Engineering
-[+] Data Engineering
-[+] AI / ML
-[+] LLM Applications
-[+] AI Agents
-[+] Linux
-[+] Docker
-[+] System Design
-
-Status: ████████████████████ 100%
-
-$ echo "keep_learning=true"
-
-keep_learning=true
-```
-
----
-
-## `> ./github_stats`
-
-<p align="center">   <img src="https://github-readme-stats.vercel.app/api?username=hanizhr&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" height="180"/>   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanizhr&layout=compact&theme=chartreuse-dark&hide_border=true" height="180"/> </p>
-
-<p align="center">   <img src="https://streak-stats.demolab.com?user=hanizhr&theme=chartreuse-dark&hide_border=true" /> </p>
-
----
-
-## `> ./connect`
+## GitHub
 
 <p align="center">
-
-<a href="https://github.com/hanizhr"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
-
-<a href="https://www.linkedin.com/in/haniyeh-zahraee-78b730235/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-
-<a href="mailto:[haniyehzahraee@gmail.com](mailto:haniyehzahraee@gmail.com)"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-
-<a href="https://hanizhr.github.io/"> <img src="https://img.shields.io/badge/Portfolio-00FF9C?style=for-the-badge&logo=firefox&logoColor=black"/> </a>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=hanizhr&show_icons=true&hide_border=true&theme=github_dark" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanizhr&layout=compact&hide_border=true&theme=github_dark" height="170"/>
 </p>
 
 ---
 
-```bash
-┌──(hani㉿linux)-[~/development]
-└─$ echo "Building systems. Working with data. Exploring AI."
+## Find me
 
-Building systems. Working with data. Exploring AI.
+- GitHub: https://github.com/hanizhr
+- LinkedIn: https://www.linkedin.com/in/haniyeh-zahraee-78b730235/
+- Portfolio: https://hanizhr.github.io/
+- Email: haniyehzahraee@gmail.com
 
-┌──(hani㉿linux)-[~/development]
-└─$ exit
-```
+---
 
-<p align="center">   <i>“The best way to predict the future is to build it.”</i> </p>
-
-<p align="center">   <img src="https://komarev.com/ghpvc/?username=hanizhr&style=flat-square&color=00ff9c" /> </p>
+<sub>Interested in backend systems, data and practical applications of AI.</sub>
