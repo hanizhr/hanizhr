@@ -1,1 +1,45 @@
 
+name: Generate Animation
+
+on:
+  # هر ۲۴ ساعت یک‌بار به طور خودکار اجرا شود
+  schedule:
+    - cron: "0 0 * * *"
+  
+  # اجازه می‌دهد که به صورت دستی هم از تب Actions آن را اجرا کنید
+  workflow_dispatch:
+  
+  # با هر کامیت جدیدی که روی شاخه اصلی (main یا master) انجام شود هم اجرا می‌شود
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      # ۱. دریافت کدهای مخزن
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # ۲. تولید فایل انیمیشن مار از روی تاریخچه کامیت‌ها
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # ۳. ذخیره و کامیت کردن فایل‌های جدید درون مخزن شما
+      - name: Push generated files to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
